@@ -133,7 +133,7 @@ function trocar(elemento) {
 }
 
 function volta(elemento) {
-   elemento.innerHTML = "<p>Passe o mouse</p>[";
+   elemento.innerHTML = "<p>Passe o mouse</p>";
 }
 
 function charce(elemento) {
